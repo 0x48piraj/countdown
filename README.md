@@ -1,3 +1,7 @@
-# Countdown 2018
+Countdown
+==============
 
-> **Countdown WebApps** built during holidays for @fossasia :rocket:
+
+Demo at ...
+
+Run `celebrate();` from your browsers Deve Console to see what the animation looks like.
